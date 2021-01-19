@@ -8,3 +8,4 @@ Getting Random Names by requesting API
 - filtered the Title, firstName , lastName and added the pic of the every single user.
 - user can able to get random names by clicking on the Button
 
+check out live at : https://sapthagiri-web-dev.github.io/Random_API_Names/
